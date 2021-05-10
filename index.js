@@ -321,7 +321,6 @@ Prefix : 「 MULTI-PREFIX 」
 
 *</DOWNLOAD>*
 ► _${prefix}ytsearch_ <query>
-► _${prefix}igstalk_ <query>
 ► _${prefix}play_ <query>
 ► _${prefix}video_ <query>
 ► _${prefix}ytmp3_ <link>

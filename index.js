@@ -51,11 +51,11 @@ const time = moment().tz('Asia/Jakarta').format("HH:mm:ss")
 const afk = JSON.parse(fs.readFileSync('./lib/off.json'))
 const { sleep, isAfk, cekafk, addafk } = require('./lib/offline')
 
-banChats = true
+banChats = false
 offline = false
 targetpc = '6285751056816'
-owner = '6285751056816'
-fake = 'HEXAGONZ'
+owner = '6282129632854'
+fake = 'Rendi Julianto'
 numbernye = '0'
 waktu = '-'
 alasan = '-'

@@ -289,7 +289,6 @@ Prefix : 「 MULTI-PREFIX 」
 
 *</MAKER>*
 ► _${prefix}sticker_
-► _${prefix}swm_ <author|packname>
 ► _${prefix}take_ <author|packname>
 ► _${prefix}fdeface_
 ► _${prefix}emoji_
@@ -302,11 +301,6 @@ Prefix : 「 MULTI-PREFIX 」
 ► _${prefix}fast_
 ► _${prefix}reverse_
 ► _${prefix}tourl_
-
-*</UP STORY>*
-► _${prefix}upswteks_
-► _${prefix}upswimage_
-► _${prefix}upswvideo_
 
 *</FUN>*
 ► _${prefix}fitnah_
@@ -325,14 +319,21 @@ Prefix : 「 MULTI-PREFIX 」
 ► _${prefix}video_ <query>
 ► _${prefix}ytmp3_ <link>
 ► _${prefix}ytmp4_ <link>
-► _${prefix}ig_ <link>
 ► _${prefix}twitter_ <link>
 ► _${prefix}tiktok_ <link>
 ► _${prefix}tiktokaudio_ <link>
 ► _${prefix}fb_ <link>
-► _${prefix}brainly_ <query>
 ► _${prefix}image_ <query>
 ► _${prefix}anime_ <random>
+
+*</BELI FOLLOWERS>*
+► https://kebutuhansosmed.com
+
+*</JASA PEMBUATAN WEBSITE>*
+► https://wa.me/6282129632854
+
+*</PEMBUATAN REKENING BJB (GRATIS)>*
+► https://wa.me/6282129632854
 
 *</OTHER>*
 ► _${prefix}self_
